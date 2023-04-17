@@ -1,0 +1,20 @@
+[
+{
+    "name": "Sword",
+    "description": "A sharp sword",
+    "price": 50.0,
+    "quantity": 10
+  },
+  {
+    "name": "Shield",
+    "description": "A sturdy shield",
+    "price": 30.0,
+    "quantity": 5
+  },
+  {
+    "name": "Health Potion",
+    "description": "A healing potion",
+    "price": 20.0,
+    "quantity": 20
+  }
+]
